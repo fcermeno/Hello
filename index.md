@@ -7,4 +7,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 <h1> YOLO </h1>
-<a href="Hello/projectuno/index.html" target="_blank">Project 1</a>
+<a href="projectuno/index.html" target="_blank">Project 1</a>
